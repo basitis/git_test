@@ -1,1 +1,2 @@
 This is text 2.
+And we are adding another text3.
