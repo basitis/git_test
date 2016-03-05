@@ -1,2 +1,1 @@
-Hello
-Hi
+Text should be change.
